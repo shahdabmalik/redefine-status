@@ -10,7 +10,7 @@ const SectionOne = () => {
                     <Lottie animationData={animation} />
                 </div>
                 <h1 data-aos="fade-up" className="font-extrabold inline bg-clip-text bg-gradient-to-r from-blue-400 to-violet-500 text-transparent text-4xl sm:text-5xl md:text-6xl lg:text-8xl text-center rounded-2xl mb-2 font-inter" >REDEFINE STATUS</h1>
-                <p data-aos="fade-up" data-aos-delay="100" className="mb-8 text-center text-xl md:text-2xl font-semibold text-slate-950 dark:text-slate-100" >How We Can Correct Mankind&apos;s Leaderboard </p>
+                <p data-aos="fade-up" data-aos-delay="100" className="mb-16 text-center text-xl md:text-2xl font-semibold text-slate-950 dark:text-slate-100" >How We Can Correct Mankind&apos;s Leaderboard </p>
                 <div className="h-1/4 w-full absolute bottom-0 left-0 bg-gradient-to-b from-transparent  dark:to-slate-900 to-slate-100" ></div>
             </div>
             <div className="bg-slate-100 dark:bg-slate-900" >
