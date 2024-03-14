@@ -5,7 +5,7 @@ import image4 from "../../assets/image4.webp"
 const SectionThree = () => {
     return (
         <div className=' bg-green-100 dark:bg-green-950 relative' >
-            <div id="solution" className="max-w-screen-xl mx-auto px-4 md:px-10 pt-16 pb-36" >
+            <div id="solution" className=" overflow-hidden max-w-screen-xl mx-auto px-4 md:px-10 pt-16 pb-36" >
                 <h3 className='text-2xl sm:text-4xl text-green-900 dark:text-green-400 border-b pb-1 border-green-400 dark:border-green-800 font-inter font-bold' >The Simple Solution</h3>
                 <div className="mt-8 text-slate-700 dark:text-slate-200" >
                     <p className="font-semibold" >Thought experiments make it obvious that this idea is memetic, and just has not been tried in the market. Once one initial company opens up this model, many more will follow and copy:</p>

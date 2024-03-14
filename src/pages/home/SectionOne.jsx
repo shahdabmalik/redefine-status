@@ -14,7 +14,7 @@ const SectionOne = () => {
                 <div className="h-1/4 w-full absolute bottom-0 left-0 bg-gradient-to-b from-transparent  dark:to-slate-900 to-slate-100" ></div>
             </div>
             <div className="bg-slate-100 dark:bg-slate-900" >
-                <div id='problem' className=" w-full max-w-screen-xl mx-auto pt-24 pb-36 px-4 md:px-10 relative" >
+                <div id='problem' className=" overflow-hidden w-full max-w-screen-xl mx-auto pt-24 pb-36 px-4 md:px-10 relative" >
                     <h3 className='text-2xl sm:text-4xl text-slate-800 border-b pb-1 dark:border-amber-800 dark:text-slate-200 font-inter font-bold' >Overview of The Problem</h3>
                     <div className='mt-8' >
                         <img data-aos="zoom-out" className='md:max-w-sm lg:max-w-md xl:max-w-2xl w-full rounded-md shadow-lg md:float-right md:ml-5 mb-8 md:mb-5' src={image1} alt='image' />

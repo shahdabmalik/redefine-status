@@ -4,7 +4,7 @@ import image6 from "../../assets/image6.webp"
 const SectionFour = () => {
     return (
         <div id="future" className=' bg-cyan-100 dark:bg-cyan-950 relative' >
-            <div className="max-w-screen-xl mx-auto px-4 md:px-10 pt-16 pb-36" >
+            <div className=" overflow-hidden max-w-screen-xl mx-auto px-4 md:px-10 pt-16 pb-36" >
                 <h3 className='text-2xl sm:text-4xl text-cyan-800 dark:text-cyan-300 border-b pb-1 border-cyan-400 dark:border-cyan-800 font-inter font-bold' >Bringing The Inevitable Future Forward</h3>
                 <div className="mt-8 text-slate-700 dark:text-slate-200" >
                     <p className="" >There’s a vibe shift underway, as we get closer and closer to a post scarcity economy, the eternal currency of the future of good karma will become more clear.</p>

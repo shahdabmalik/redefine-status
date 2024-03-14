@@ -3,8 +3,8 @@ import image2 from "../../assets/image2.webp"
 
 const SectionTwo = () => {
     return (
-        <div id="deeperdive" className='overflow-hidden bg-blue-100 dark:bg-blue-950 relative' >
-            <div className="max-w-screen-xl mx-auto px-4 md:px-10 pt-16 pb-36" >
+        <div id="deeperdive" className=' bg-blue-100 dark:bg-blue-950 relative' >
+            <div className=" overflow-hidden max-w-screen-xl mx-auto px-4 md:px-10 pt-16 pb-36" >
                 <h3 className='text-2xl sm:text-4xl text-blue-900 dark:text-blue-400 border-b pb-1 border-blue-400 dark:border-blue-800 font-inter font-bold' >A Deeper Dive:</h3>
                 <div className="mt-8 text-slate-700 dark:text-slate-200" >
                     <p className="text-slate-700 dark:text-slate-200" >On a fundamental level once someone gets the basics covered as in food, water, shelter. They can start to spend their time and money on convenience, health, and purpose but more often than not; status is where a majority of surplus wealth goes. </p>
