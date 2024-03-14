@@ -27,10 +27,10 @@ const DarkModeBtn = () => {
 
     return (
         <>
-            <button onClick={handleDarkMode} type="button" className=" hover:text-primary dark:hover:text-white dark:text-white focus:outline-none hidden md:block" >
+            <button onClick={handleDarkMode} type="button" className=" hover:text-blue-400 dark:hover:text-slate-600 dark:text-orange-500 focus:outline-none hidden md:block" >
                 {darkMode === "light" ? <IoMdMoon size={22} /> : <IoMdSunny size={22} />}
             </button>
-            <button onClick={handleDarkMode} type="button" className=" hover:text-primary dark:hover:text-white dark:text-white focus:outline-none md:hidden" >
+            <button onClick={handleDarkMode} type="button" className=" dark:hover:text-slate-600  dark:text-orange-500 focus:outline-none md:hidden" >
                 {darkMode === "light" ? <IoMdMoon size={28} /> : <IoMdSunny size={28} />}
             </button>
         </>

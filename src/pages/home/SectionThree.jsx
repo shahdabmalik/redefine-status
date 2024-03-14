@@ -4,8 +4,8 @@ import image4 from "../../assets/image4.webp"
 
 const SectionThree = () => {
     return (
-        <div className=' bg-green-200 dark:bg-green-900 relative' >
-            <div className="max-w-screen-xl mx-auto px-4 md:px-10 pb-36" >
+        <div className=' bg-green-100 dark:bg-green-950 relative' >
+            <div id="solution" className="max-w-screen-xl mx-auto px-4 md:px-10 pt-16 pb-36" >
                 <h3 className='text-2xl sm:text-4xl text-green-900 dark:text-green-400 border-b pb-1 border-green-400 dark:border-green-800 font-inter font-bold' >The Simple Solution</h3>
                 <div className="mt-8 text-slate-700 dark:text-slate-200" >
                     <p className="font-semibold" >Thought experiments make it obvious that this idea is memetic, and just has not been tried in the market. Once one initial company opens up this model, many more will follow and copy:</p>
@@ -26,7 +26,7 @@ const SectionThree = () => {
                     <p className="mt-5" >With the release  of more and more globally disruptive technology, anxiousness about our focus on making sure things goes right becomes more apparent. By educating the world on alignment of using money and power for good from the most basic layer of apparel we will begin to cause this shift. With the right priming, a large amount of legacy wealth will be funneled into shifting the global workforce into focusing on the worlds greatest problems. </p>
                 </div>
             </div>
-            <div className="h-36 w-full absolute bottom-0 left-0 bg-gradient-to-b from-transparent dark:to-cyan-900 to-cyan-200" ></div>
+            <div className="h-36 w-full absolute bottom-0 left-0 bg-gradient-to-b from-transparent dark:to-cyan-950 to-cyan-100" ></div>
         </div>
     )
 }
